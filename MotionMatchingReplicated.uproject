@@ -42,12 +42,8 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
-		},
-		{
-			"Name": "TextureResizeSC",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c24899ea760042709748b9853bbc946c"
 		}
+		
 	],
 	"EpicSampleNameHash": "1673045636"
 }

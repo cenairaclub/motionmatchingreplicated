@@ -1,3 +1,13 @@
+Main branch is problematic because it does not have a smooth sync plugin. It causes other players to walk shakily in a game with a problematic internet connection. That's why I will not update the main branch anymore. I will build other versions on Smooth Sync.
+![image](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/9bda1f8a-b569-49d3-a33d-9cfe486d7595)
+
+
+Smooth Sync Plugin:
+
+
+https://www.unrealengine.com/marketplace/en-US/product/smooth-sync
+
+
 Video Link:
 https://www.youtube.com/watch?v=-zkdBxBybFg
 
@@ -12,7 +22,7 @@ Replicated sounds.
 
 SMOOTH SYNC PLUGIN SUPPORTED - just change the branch to SmoothSync, thats it;
 My Smooth Sync Demo Video: https://youtu.be/7MmN_9Jn-0s
-i used the smooth sync plugin in the SmoothSync branch, then checked the Always Relevant in the character defaults. And changed something in the SmoothSync component. Thats it.
+i used the smooth sync plugin in the SmoothSync branch, then checked the Always Relevant in the character defaults. And changed something in the SmoothSync component. And coded a few things. Thats it.
 https://www.unrealengine.com/marketplace/en-US/product/smooth-sync
 
 I changed the level a bit. 

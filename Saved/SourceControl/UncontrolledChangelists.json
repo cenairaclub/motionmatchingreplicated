@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/MotionMatchingReplicated/motionmatchingreplicated/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MotionMatchingReplicated/motionmatchingreplicated/Content/Blueprints/Weapons/Projectile/BP_FirstPersonProjectile.uasset",
+				"C:/Users/user/Documents/Unreal Projects/MotionMatchingReplicated/motionmatchingreplicated/Content/Blueprints/ABP_SandboxCharacter.uasset"
+			]
+		}
+	]
+}

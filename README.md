@@ -1,8 +1,9 @@
 ![Adsız](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/51de2ad1-1e21-45a0-ba19-819d8a873ea6)
 
+![file1 (1)](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/726b0fc4-d24f-45a1-a62c-0c8585e56377)
 
-Main branch is problematic because it does not have a smooth sync plugin. It causes other players to walk shakily in a game with a problematic internet connection. That's why I will not update the main branch anymore. I will build other versions on Smooth Sync.
-![image](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/9bda1f8a-b569-49d3-a33d-9cfe486d7595)
+
+Main_v1 branch is problematic because it does not have a smooth sync plugin. It causes other players to walk shakily in a game with a problematic internet connection. That's why I will not update the mainv1 branch anymore. I will build other versions on Smooth Sync.
 
 
 Smooth Sync Plugin:

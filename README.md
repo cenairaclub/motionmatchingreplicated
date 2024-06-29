@@ -3,7 +3,7 @@
 ![file1 (1)](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/726b0fc4-d24f-45a1-a62c-0c8585e56377)
 
 
-Main_v1 branch is problematic because it does not have a smooth sync plugin. It causes other players to walk shakily in a game with a problematic internet connection. That's why I will not update the mainv1 branch anymore. I will build other versions on Smooth Sync.
+Main_v1 branch is problematic because it does not have a **smooth sync plugin**. It causes other players to walk shakily in a game with a problematic internet connection. That's why I will not update the mainv1 branch anymore. I will build other versions on Smooth Sync.
 
 
 Smooth Sync Plugin:

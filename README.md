@@ -6,7 +6,7 @@
 Main_v1 branch is problematic because it does not have a **smooth sync plugin**. It causes other players to walk shakily in a game with a problematic internet connection. That's why I will not update the mainv1 branch anymore. I will build other versions on Smooth Sync.
 
 
-Smooth Sync Plugin:
+Smooth Sync Plugin NEEDED:
 
 
 https://www.unrealengine.com/marketplace/en-US/product/smooth-sync

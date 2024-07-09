@@ -41,6 +41,9 @@ My Smooth Sync Demo Video: https://youtu.be/7MmN_9Jn-0s
 i used the smooth sync plugin in the SmoothSync branch, then checked the Always Relevant in the character defaults. And changed something in the SmoothSync component. And coded a few things. Thats it.
 https://www.unrealengine.com/marketplace/en-US/product/smooth-sync
 
+For select the guns, press these
+![image](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/c2e44d63-e2ad-43be-a46f-a734e2125f56)
+
 
 My Store on Unreal Marketplace
 https://www.unrealengine.com/marketplace/en-US/profile/UmutFaruk?count=20&sortBy=effectiveDate&sortDir=DESC&start=0

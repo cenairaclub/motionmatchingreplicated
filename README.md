@@ -42,6 +42,8 @@ i used the smooth sync plugin in the SmoothSync branch, then checked the Always 
 https://www.unrealengine.com/marketplace/en-US/product/smooth-sync
 
 For select the guns, press these
+
+
 ![image](https://github.com/cenairaclub/motionmatchingreplicated/assets/14151235/c2e44d63-e2ad-43be-a46f-a734e2125f56)
 
 
